@@ -6,7 +6,7 @@ Following things are to be done in order to make this updater work:
 
 3. Copy 'md5.csv' file to the folder where update files are kept.
 
-4. Edit path.ini and replace the existing URL with your custom URL. For example if the files are present in a folder named 'Update' situated in the base path of localserver then the URL would be 'http://127.0.0.1/update/' (Don NOT forget to add '/' at the end)
+4. Edit path.ini and replace the existing URL with your custom URL. For example if the files are present in a folder named 'Update' situated in the base path of localserver then the URL would be 'http://127.0.0.1/update/' (Do NOT forget to add '/' at the end)
 
 5. Download 7zip software for windows and install it. Then inside the installed directory you will find 7zip.exe. Copy that file into your update folder.
 
