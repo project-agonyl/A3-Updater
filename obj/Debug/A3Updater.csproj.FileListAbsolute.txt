@@ -1,0 +1,8 @@
+C:\Users\PrivyM\Desktop\A3Updator\bin\Debug\A3Updater.exe
+C:\Users\PrivyM\Desktop\A3Updator\bin\Debug\A3Updater.pdb
+C:\Users\PrivyM\Desktop\A3Updator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PrivyM\Desktop\A3Updator\obj\Debug\A3Updator.Form1.resources
+C:\Users\PrivyM\Desktop\A3Updator\obj\Debug\A3Updater.Properties.Resources.resources
+C:\Users\PrivyM\Desktop\A3Updator\obj\Debug\A3Updater.csproj.GenerateResource.Cache
+C:\Users\PrivyM\Desktop\A3Updator\obj\Debug\A3Updater.exe
+C:\Users\PrivyM\Desktop\A3Updator\obj\Debug\A3Updater.pdb
